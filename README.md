@@ -1,4 +1,5 @@
 ### Hi there 👋
+- ⚡ Fun fact: do u know da wae?
 
 <!--
 **twinpixxx/twinpixxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
