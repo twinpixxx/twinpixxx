@@ -1,5 +1,8 @@
 ### Hi there 👋
 ⚡ Fun fact: do u know da wae?
+---
+
+![Anthony's github stats](https://github-readme-stats.vercel.app/api?username=twinpixxx&count_private=true&show_icons=true)
 
 <!--
 **twinpixxx/twinpixxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
